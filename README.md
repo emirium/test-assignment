@@ -22,27 +22,15 @@
 
 ## Installation
 
-1. Clone the repository:
+Clone the repository:
 ```bash
 git clone [repository-url]
 cd test-assignment
 ```
 
-2. Install dependencies:
+Install dependencies:
 ```bash
 npm install
-```
-
-3. Install required dependencies:
-```bash
-npm install @reduxjs/toolkit react-redux react-router-dom
-npm install @hookform/resolvers zod react-hook-form
-npm install -D tailwindcss postcss autoprefixer
-```
-
-4. Initialize TailwindCSS:
-```bash
-npx tailwindcss init -p
 ```
 
 ## Running the Application
